@@ -10,5 +10,3 @@ As a first step, I will implement the main analysis of M&N2016 in python.
 
 ## Structure
 * `data/` : all the data necessary to recreate my analysis
-* `src/` : functions for loading data, doing analysis, plotting
-* `notebooks/` : jupyter notebooks to demonstrate code
