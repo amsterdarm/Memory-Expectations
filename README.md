@@ -10,3 +10,4 @@ As a first step, I will implement the main analysis of M&N2016 in python.
 
 ## Structure
 * `data/` : all the data necessary to recreate my analysis
+* `MN2016_main_analysis_demo.ipynb` is a notebook demonstarting my implementation of the recursive learning algortihm and main analysis built on in.
